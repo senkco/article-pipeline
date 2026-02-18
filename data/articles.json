@@ -1,0 +1,72 @@
+[
+  {
+    "id": "art001",
+    "url": "https://www.bbc.com/news/technology",
+    "source": "BBC",
+    "category": "technology",
+    "priority": 1
+  },
+  {
+    "id": "art002",
+    "url": "https://www.theguardian.com/technology",
+    "source": "The Guardian",
+    "category": "technology",
+    "priority": 2
+  },
+  {
+    "id": "art003",
+    "url": "https://www.reuters.com/technology/",
+    "source": "Reuters",
+    "category": "technology",
+    "priority": 1
+  },
+  {
+    "id": "art004",
+    "url": "https://techcrunch.com/",
+    "source": "TechCrunch",
+    "category": "technology",
+    "priority": 3
+  },
+  {
+    "id": "art005",
+    "url": "https://www.wired.com/",
+    "source": "Wired",
+    "category": "technology",
+    "priority": 2
+  },
+  {
+    "id": "art006",
+    "url": "https://arstechnica.com/",
+    "source": "Ars Technica",
+    "category": "technology",
+    "priority": 1
+  },
+  {
+    "id": "art007",
+    "url": "https://www.theverge.com/",
+    "source": "The Verge",
+    "category": "technology",
+    "priority": 2
+  },
+  {
+    "id": "art008",
+    "url": "https://www.cnet.com/news/",
+    "source": "CNET",
+    "category": "technology",
+    "priority": 3
+  },
+  {
+    "id": "art009",
+    "url": "https://www.zdnet.com/",
+    "source": "ZDNet",
+    "category": "technology",
+    "priority": 1
+  },
+  {
+    "id": "art010",
+    "url": "https://www.engadget.com/",
+    "source": "Engadget",
+    "category": "technology",
+    "priority": 2
+  }
+]
